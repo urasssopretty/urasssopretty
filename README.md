@@ -1,10 +1,9 @@
 ## Hi there✨~
 I'm software develper.\
 I'm using: cpp, c#, python and js.\
-I want to try dart and flutter.\
 Lately I've been interested in data-oriented design.\
 Soon I'm going to finish my porfolio website and online blog.\
-I' interesting in keyobards, ux/ui design, note-taking, pseudorandom number generator, gamedev, Brain-Machine Interfaces and other new way to interact with computer\
+I' interesting in keyobards, note-taking, pseudorandom number generator, gamedev, Brain-Machine Interfaces and other new way to interact with computer\
 I'm using AwesomeWM (strongly don't recommend) and Hyprland. (dots coming soon)\
 
 You can't find me on other platforms now.
