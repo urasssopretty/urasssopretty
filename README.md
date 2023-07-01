@@ -1,16 +1,13 @@
 ## Hi there✨~
 I'm software develper.\
-I'm using: cpp, c#, python and js.\
-Lately I've been interested in data-oriented design.\
-Soon I'm going to finish my porfolio website and online blog.\
-I' interesting in keyobards, note-taking, pseudorandom number generator, gamedev, Brain-Machine Interfaces and other new way to interact with computer\
-I'm using AwesomeWM (strongly don't recommend) and Hyprland. (dots coming soon)\
+I'm using: cpp, c# and python.\
+I' interesting in keyobards, note-taking, data-oriented design, pseudorandom number generators, gamedev, new ways to interact with computer\
 
-You can't find me on other platforms now.
+personal site: [https://urasssopretty.github.io/](https://urasssopretty.github.io/)
+
+updated: 01.07.2023
 
 <!---
 urasssopretty/urasssopretty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-updated: 26.06.2023
