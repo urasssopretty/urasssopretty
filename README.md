@@ -1,7 +1,7 @@
 ## Hi there✨~
 I'm software develper.\
 I'm using: cpp, c# and python.\
-I' interesting in keyobards, note-taking, data-oriented design, pseudorandom number generators, gamedev, new ways to interact with computer\
+I' interesting in keyobards, note-taking, data-oriented design, pseudorandom number generators, gamedev, new ways to interact with computer
 
 updated: 01.07.2023
 
