@@ -1,9 +1,8 @@
 ## Hi there✨~
-I'm software develper.\
-I'm using: cpp, c# and python.\
-I' interesting in keyobards, note-taking, data-oriented design, pseudorandom number generators, gamedev, new ways to interact with computer
+I'm C++ software develper.\
+I'm interested in creating damn fast programs.\
 
-updated: 01.07.2023
+updated: 13.01.2024
 
 <!---
 urasssopretty/urasssopretty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
