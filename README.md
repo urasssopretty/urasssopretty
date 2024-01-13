@@ -1,6 +1,6 @@
 ## Hi there✨~
 I'm C++ software develper.\
-I'm interested in creating damn fast programs.\
+I'm interested in creating damn fast programs.
 
 updated: 13.01.2024
 
